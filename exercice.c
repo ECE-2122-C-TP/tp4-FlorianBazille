@@ -37,7 +37,7 @@ int Exercice4()
     else
     {
         printf("L'entier saisi est inferieur a\n");
-        printf("%i", ENTIER_SUPERIEUR_EGALE);
+        printf("% i", ENTIER_SUPERIEUR_EGALE);
     }
     return 0;
 }
